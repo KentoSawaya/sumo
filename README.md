@@ -17,11 +17,14 @@ AWS ってすご〜い！意味わかんないけど！
 |name|discription|
 |-|-|
 |AWS|Amazon のすっごいサービス⭐️|
-|node.js|javascript のすっごいやつ⭐️|
+|node.js|javascript を動かすすっごいやつ⭐️|
+|express||
+|socket.io||
 |nipples.js|乳首|
+|phina.js|ゲームのライブラリ|
 
 ### 開発環境
-めんどくさいから iPad と Cloud9 (AWS) だけで作ります💓
+めんどくさいからと Cloud9 (AWS) だけで作ります
 
 ## 導入方法
 このリポジトリを EC2 に clone して、install.sh を実行。
