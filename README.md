@@ -18,8 +18,8 @@ deploy url を添付する
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+T.B.D.
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[Kento Sawaya](https://github.com/KentoSawaya)
