@@ -1,31 +1,25 @@
-# sumo
-## はじめに
-チキチキ！週末プログラミングでどれくらいのゲームが作れるのかチャレンジ！
-笑いたきゃ笑え。
+SUMO BATTLE
+====
 
-### ゲーム概要
-急に sumo したくなることってありませんか？
-ありますよね。ネットで sumo ができたら素敵だなって思いませんか？
-思いますよね。私は思いませんけど。
-スマホのブラウザからアクセスしてできたら楽しいよね〜
+相撲型オンライン対戦ゲーム
 
-### 使用するもの
-node.js と javascript とか？
-よくわかんないけど動かすよ〜
-AWS ってすご〜い！意味わかんないけど！
+## Description
 
-|name|discription|
-|-|-|
-|AWS|Amazon のすっごいサービス⭐️|
-|node.js|javascript を動かすすっごいやつ⭐️|
-|express||
-|socket.io||
-|nipples.js|乳首|
-|phina.js|ゲームのライブラリ|
+Socket.io + Express で実装するオンライン対戦ゲーム。
+Client 側は nipple.js, phina.js を使用して実装し、ブラウザ上で動作する。
 
-### 開発環境
-めんどくさいからと Cloud9 (AWS) だけで作ります
+## Demo
 
-## 導入方法
-このリポジトリを EC2 に clone して、install.sh を実行。
-って、したいな💓
+deploy url を添付する
+
+## Install
+
+`install.sh` を実行
+
+## Licence
+
+T.B.D.
+
+## Author
+
+[Kento Sawaya](https://github.com/KentoSawaya)
