@@ -1,0 +1,24 @@
+{
+  "name": "sumo",
+  "version": "1.0.0",
+  "description": "チキチキ！週末プログラミングでどれくらいのゲームが作れるのかチャレンジ！ 笑いたきゃ笑え。",
+  "main": "sumo_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sumo_server.js &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KentoSawaya/sumo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KentoSawaya/sumo/issues"
+  },
+  "homepage": "https://github.com/KentoSawaya/sumo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
