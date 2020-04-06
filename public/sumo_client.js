@@ -2,7 +2,7 @@ phina.globalize();
 
 var SCREEN_X = 800;
 var SCREEN_Y = 600;
-var scale = 1;
+var scale = 0.5;
 var P_size = 48 * scale;
 
 var ASSETS = {
@@ -20,7 +20,7 @@ phina.define('MainScene', {
       .addChildTo(this)
       .setPosition(this.gridX.center(), this.gridY.center())
       .setScale(scale);
-    this.backgroundColor = 'black';
+    
   },
 });
 

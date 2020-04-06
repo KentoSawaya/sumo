@@ -13,8 +13,9 @@ server.listen(port, () => {
 // Routing
 app.use(express.static(path.join(__dirname, 'public')));
 
+// -----------------------------------------
 // sumo server
-
+// -----------------------------------------
 var numUsers = 0;
 
 io.on('connection', (socket) => {
