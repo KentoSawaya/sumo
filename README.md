@@ -6,7 +6,7 @@ SUMO BATTLE
 ## Description
 
 Socket.io + Express で実装するオンライン対戦ゲーム。
-Client 側は nipple.js, phina.js を使用して実装し、ブラウザ上で動作する。
+Client 側は nipple.js, phina.js を使用して実装し、ブラウザ上で動作させる。
 
 ## Demo
 
